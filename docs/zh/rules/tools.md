@@ -18,6 +18,12 @@ editLink: false
 |------|------|
 | [github-quality](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/tools/github-quality/.cursorrules) | 你是代码质量、Git 工作流和最佳实践方面的专家。 |
 
+## cosmosmith-workflow
+
+| 规则 | 说明 |
+|------|------|
+| [cosmosmith-workflow](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/docs/rules/tools/cosmosmith-workflow/.cursorrules) | 你是多 Agent 软件工作流治理专家，负责协调 AGENTS.md、task.md、角色协作和验证闭环。 |
+
 ## 使用方法
 
 1. 点击规则链接，在 GitHub 上查看 `.cursorrules` 文件

@@ -18,6 +18,12 @@ Cursor AI programming rules for Tools.
 |------|------|
 | [github-quality](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/tools/github-quality/.cursorrules) | 你是代码质量、Git 工作流和最佳实践方面的专家。 |
 
+## cosmosmith-workflow
+
+| Rule | Description |
+|------|------|
+| [cosmosmith-workflow](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/docs/rules/tools/cosmosmith-workflow/.cursorrules) | Multi-agent workflow governance for AGENTS.md, task.md, role handoffs, and verification evidence. |
+
 ## Usage
 
 1. Click the rule link to view the `.cursorrules` file on GitHub

@@ -1,0 +1,17 @@
+---
+description: 多 Agent 项目治理规则，使用 AGENTS.md、task.md、角色协作和验证证据协调 Cursor 与其他 AI 编程工具。
+globs: **/*
+alwaysApply: false
+---
+
+- Treat `AGENTS.md` as the canonical project constitution.
+- Treat `CLAUDE.md`, `.cursor/rules/*.mdc`, `.github/copilot-instructions.md`, `.opencode/AGENTS.md`, and `.trae/rules/*.md` as adapters.
+- If an adapter conflicts with `AGENTS.md`, follow `AGENTS.md` and record an adapter update task.
+- Use `task.md` as the active task ledger.
+- Claim one small, verifiable task at a time.
+- Record role, context, expected output, acceptance checks, harness, and evidence before marking a task done.
+- Use role context deliberately: product, research, architect, UI/UX, frontend, backend, QA, DevOps, and governance review.
+- Make Prompt, Context, Harness, and Loop explicit for substantial work.
+- Prefer tests, lint, build, browser checks, CI, schema checks, or reproducible manual evidence over unsupported claims.
+- For large ledgers, read only the next claimable task and its necessary context.
+- If the project has no governance files yet, initialize with `npx cosmosmith@latest init --all`.
