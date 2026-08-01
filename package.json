@@ -18,7 +18,7 @@
     "lint:fix": "markdownlint-cli2 --fix '**/*.md' '!node_modules/**' '!docs/node_modules/**' '!docs/.vitepress/dist/**' '!docs/.vitepress/cache/**' --config .markdownlint.json"
   },
   "devDependencies": {
-    "markdownlint-cli2": "^0.22.1"
+    "markdownlint-cli2": "^0.23.2"
   },
   "engines": {
     "node": ">=20.0.0",
