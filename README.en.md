@@ -15,7 +15,7 @@
 A curated collection of [Cursor](https://cursor.sh/) AI coding rules for modern development stacks
 *为中文开发者打造的 Cursor AI 编程规则集合 - [查看中文版](./README.md)*
 
-**132** rule files · **32** tech domains · **190** technical docs · **6,500+** lines
+**133** rule files · **32** tech domains · **190** technical docs · **6,500+** lines
 
 [🚀 Quick Start](#quick-start) · [📂 Browse Rules](#rule-categories) · [💡 Usage Guide](#usage) · [📚 Docs](https://awesome-cursorrules-zh.js.org/) · [🤝 Contributing](#contributing)
 
@@ -46,7 +46,7 @@ A curated collection of [Cursor](https://cursor.sh/) AI coding rules for modern 
 - **📂 Clear Structure** — Organized by technology domain for easy discovery
 - **🚀 Ready to Use** — Copy `.cursorrules` file and start coding immediately
 - **🌍 Bilingual Support** — Complete English and Chinese documentation
-- **⚡ 132 Rules** — Covering frontend, backend, mobile, AI, DevOps, and more
+- **⚡ 133 Rules** — Covering frontend, backend, mobile, AI, DevOps, and more
 
 > 🌐 **Online Documentation**: [awesome-cursorrules-zh.js.org](https://awesome-cursorrules-zh.js.org/)
 
@@ -256,7 +256,7 @@ EOF
 
 | Metric | Value |
 |--------|-------|
-| **Rule Files** | 132 `.cursorrules` |
+| **Rule Files** | 133 `.cursorrules` |
 | **Tech Domains** | 32 categories |
 | **Tech Documents** | 190 Markdown files |
 | **Total Lines** | 6,500+ lines |

@@ -6,14 +6,14 @@
 import { ref, computed } from 'vue'
 // Import site facts with correct relative path
 const siteFacts = {
-  ruleCount: 132,
+  ruleCount: 133,
   domainCount: 32,
   localeCount: 2,
   topDomains: [
     { category: 'frontend', count: 26 },
     { category: 'backend', count: 21 },
     { category: 'devops', count: 12 },
-    { category: 'general', count: 8 },
+    { category: 'general', count: 9 },
     { category: 'data', count: 7 },
     { category: 'ai', count: 6 }
   ]

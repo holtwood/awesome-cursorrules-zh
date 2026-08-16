@@ -15,7 +15,7 @@
 为中文开发者打造的 [Cursor](https://cursor.sh/) AI 编程规则集合
 *Chinese localized version of [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules)*
 
-**132** 个规则文件 · **32** 个技术领域 · **190** 个技术文档 · **6,500+** 行代码
+**133** 个规则文件 · **32** 个技术领域 · **190** 个技术文档 · **6,500+** 行代码
 
 [🚀 快速开始](#快速开始) · [📂 规则目录](#规则目录) · [💡 使用指南](#使用指南) · [📚 官网](https://awesome-cursorrules-zh.js.org/) · [🤝 贡献](#贡献)
 
@@ -46,7 +46,7 @@
 - **📂 结构清晰** — 按技术领域分类，便于快速查找
 - **🚀 开箱即用** — 复制 `.cursorrules` 文件即可开始使用
 - **🌍 双语支持** — 完整的中英文文档对照
-- **⚡ 132 个规则** — 涵盖前端、后端、移动端、AI、DevOps 等
+- **⚡ 133 个规则** — 涵盖前端、后端、移动端、AI、DevOps 等
 
 > 🌐 **在线文档**: [awesome-cursorrules-zh.js.org](https://awesome-cursorrules-zh.js.org/)
 
@@ -256,7 +256,7 @@ EOF
 
 | 指标 | 数值 |
 |------|------|
-| **规则文件** | 132 个 `.cursorrules` |
+| **规则文件** | 133 个 `.cursorrules` |
 | **技术领域** | 32 个分类 |
 | **技术文档** | 190 个 Markdown 文件 |
 | **总行数** | 6,500+ 行 |

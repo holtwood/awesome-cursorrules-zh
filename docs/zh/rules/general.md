@@ -6,6 +6,12 @@ editLink: false
 
 通用相关的 Cursor AI 编程规则集合。
 
+## agent-qa-testing
+
+| 规则 | 说明 |
+|------|------|
+| [agent-qa-testing](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/docs/rules/general/agent-qa-testing/.cursorrules) | 使用 Agent QA 执行证据驱动的 Web 与移动端测试、故障分类和范围受控的修复。 |
+
 ## code-guidelines
 
 | 规则 | 说明 |

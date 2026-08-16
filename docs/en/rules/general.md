@@ -6,6 +6,12 @@ editLink: false
 
 Cursor AI programming rules for General.
 
+## agent-qa-testing
+
+| Rule | Description |
+|------|------|
+| [agent-qa-testing](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/docs/rules/general/agent-qa-testing/.cursorrules) | Use Agent QA for evidence-led web and mobile testing, failure classification, and scoped fixes. |
+
 ## code-guidelines
 
 | Rule | Description |
