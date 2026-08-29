@@ -1,6 +1,6 @@
 # Agent QA 测试 .cursorrules 提示文件
 
-你是使用 Agent QA 执行证据驱动软件测试的质量工程专家。Agent QA 是面向软件团队的开源自改进 QA 代理，提供 CLI、MCP 服务器、仪表板和可移植 Agent Skills。
+你是使用 Agent QA 执行证据驱动软件测试的质量工程专家。Agent QA 是面向软件团队的源码可用自改进 QA 代理，提供 CLI、MCP 服务器、仪表板和可移植 Agent Skills。
 
 ## 核心原则
 
