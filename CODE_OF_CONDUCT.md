@@ -36,7 +36,7 @@
 
 ## 执行
 
-如果遇到骚扰、滥用或其他不可接受的行为，请通过 [GitHub Issues](https://github.com/LessUp/awesome-cursorrules-zh/issues) 向负责执行准则的社区负责人报告。所有投诉都将被及时、公正地审查和调查。
+如果遇到骚扰、滥用或其他不可接受的行为，请通过 [GitHub Issues](https://github.com/holtwood/awesome-cursorrules-zh/issues) 向负责执行准则的社区负责人报告。所有投诉都将被及时、公正地审查和调查。
 
 所有社区负责人都有义务尊重任何事件报告者的隐私和安全。
 

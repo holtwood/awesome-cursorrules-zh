@@ -80,7 +80,7 @@ your-project/
 
 ### 如何报告规则问题？
 
-在 [GitHub Issues](https://github.com/LessUp/awesome-cursorrules-zh/issues) 中提交问题，包括：
+在 [GitHub Issues](https://github.com/holtwood/awesome-cursorrules-zh/issues) 中提交问题，包括：
 
 1. 规则名称和路径
 2. 问题描述
@@ -158,14 +158,14 @@ your-project/
 
 ### 如何获取更新？
 
-- **Watch** [GitHub 仓库](https://github.com/LessUp/awesome-cursorrules-zh)
-- 关注 [Release Notes](https://github.com/LessUp/awesome-cursorrules-zh/releases)
+- **Watch** [GitHub 仓库](https://github.com/holtwood/awesome-cursorrules-zh)
+- 关注 [Release Notes](https://github.com/holtwood/awesome-cursorrules-zh/releases)
 
 ### 有社区支持吗？
 
-- [GitHub Discussions](https://github.com/LessUp/awesome-cursorrules-zh/discussions)
-- [Issues](https://github.com/LessUp/awesome-cursorrules-zh/issues)
+- [GitHub Discussions](https://github.com/holtwood/awesome-cursorrules-zh/discussions)
+- [Issues](https://github.com/holtwood/awesome-cursorrules-zh/issues)
 
 ---
 
-还有问题？[提交 Issue](https://github.com/LessUp/awesome-cursorrules-zh/issues/new) 或 [参与讨论](https://github.com/LessUp/awesome-cursorrules-zh/discussions)。
+还有问题？[提交 Issue](https://github.com/holtwood/awesome-cursorrules-zh/issues/new) 或 [参与讨论](https://github.com/holtwood/awesome-cursorrules-zh/discussions)。

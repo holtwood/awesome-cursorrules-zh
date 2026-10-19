@@ -412,8 +412,8 @@ Remove-Item -Recurse -Force $env:APPDATA\Cursor\cache
 
 | 渠道 | 用途 | 链接 |
 |------|------|------|
-| 🐛 Issues | 报告 Bug | [GitHub Issues](https://github.com/LessUp/awesome-cursorrules-zh/issues) |
-| 💬 Discussions | 提问交流 | [GitHub Discussions](https://github.com/LessUp/awesome-cursorrules-zh/discussions) |
+| 🐛 Issues | 报告 Bug | [GitHub Issues](https://github.com/holtwood/awesome-cursorrules-zh/issues) |
+| 💬 Discussions | 提问交流 | [GitHub Discussions](https://github.com/holtwood/awesome-cursorrules-zh/discussions) |
 
 ### 问题报告模板
 

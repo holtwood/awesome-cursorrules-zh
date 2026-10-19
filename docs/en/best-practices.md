@@ -153,7 +153,7 @@ This project uses Cursor AI coding rules to maintain code consistency.
 
 - **Frontend**: Next.js + TypeScript + Tailwind CSS
 - **Backend**: Python FastAPI
-- **Rules Source**: [awesome-cursorrules-zh](https://github.com/LessUp/awesome-cursorrules-zh)
+- **Rules Source**: [awesome-cursorrules-zh](https://github.com/holtwood/awesome-cursorrules-zh)
 
 ### Custom Rules
 

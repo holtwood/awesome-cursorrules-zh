@@ -153,7 +153,7 @@ git push
 
 - **技术栈**: Next.js + TypeScript + Tailwind CSS
 - **后端**: Python FastAPI
-- **规则来源**: [awesome-cursorrules-zh](https://github.com/LessUp/awesome-cursorrules-zh)
+- **规则来源**: [awesome-cursorrules-zh](https://github.com/holtwood/awesome-cursorrules-zh)
 
 ### 自定义规则
 

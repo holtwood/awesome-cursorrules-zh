@@ -10,7 +10,7 @@ Cursor AI programming rules for Robotics.
 
 | Rule | Description |
 |------|------|
-| [ros](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/robotics/ros/.cursorrules) | 机器人操作系统 .cursorrules 提示文件 |
+| [ros](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/robotics/ros/.cursorrules) | 机器人操作系统 .cursorrules 提示文件 |
 
 ## Usage
 

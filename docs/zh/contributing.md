@@ -147,7 +147,7 @@ chore: 更新构建配置
 
 ## 获取帮助
 
-- [GitHub Issues](https://github.com/LessUp/awesome-cursorrules-zh/issues)
-- [GitHub Discussions](https://github.com/LessUp/awesome-cursorrules-zh/discussions)
+- [GitHub Issues](https://github.com/holtwood/awesome-cursorrules-zh/issues)
+- [GitHub Discussions](https://github.com/holtwood/awesome-cursorrules-zh/discussions)
 
 感谢你的贡献！🎉

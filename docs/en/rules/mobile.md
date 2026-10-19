@@ -10,31 +10,31 @@ Cursor AI programming rules for Mobile.
 
 | Rule | Description |
 |------|------|
-| [android-jetpack-compose](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/mobile/android-jetpack-compose/.cursorrules) | Android Jetpack Compose .cursorrules 提示文件 |
+| [android-jetpack-compose](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/mobile/android-jetpack-compose/.cursorrules) | Android Jetpack Compose .cursorrules 提示文件 |
 
 ## Flutter
 
 | Rule | Description |
 |------|------|
-| [flutter-app-expert](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/mobile/flutter/flutter-app-expert/.cursorrules) | Flutter 应用开发 .cursorrules 提示文件 |
+| [flutter-app-expert](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/mobile/flutter/flutter-app-expert/.cursorrules) | Flutter 应用开发 .cursorrules 提示文件 |
 
 ## ios-uikit
 
 | Rule | Description |
 |------|------|
-| [ios-uikit](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/mobile/ios-uikit/.cursorrules) | UIKit iOS 开发 .cursorrules 提示文件 |
+| [ios-uikit](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/mobile/ios-uikit/.cursorrules) | UIKit iOS 开发 .cursorrules 提示文件 |
 
 ## react-native-expo
 
 | Rule | Description |
 |------|------|
-| [react-native-expo](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/mobile/react-native-expo/.cursorrules) | React Native Expo .cursorrules 提示文件 |
+| [react-native-expo](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/mobile/react-native-expo/.cursorrules) | React Native Expo .cursorrules 提示文件 |
 
 ## swiftui-guidelines
 
 | Rule | Description |
 |------|------|
-| [swiftui-guidelines](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/mobile/swiftui-guidelines/.cursorrules) | SwiftUI 开发 .cursorrules 提示文件 |
+| [swiftui-guidelines](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/mobile/swiftui-guidelines/.cursorrules) | SwiftUI 开发 .cursorrules 提示文件 |
 
 ## Usage
 

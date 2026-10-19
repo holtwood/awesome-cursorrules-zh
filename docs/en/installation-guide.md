@@ -132,7 +132,7 @@ sudo apt-get install -f  # Fix dependencies
 
 ```bash
 # Clone the repository
-git clone https://github.com/LessUp/awesome-cursorrules-zh.git
+git clone https://github.com/holtwood/awesome-cursorrules-zh.git
 
 # Enter the directory
 cd awesome-cursorrules-zh
@@ -145,7 +145,7 @@ ls rules/
 
 ```bash
 # Download latest version
-wget https://github.com/LessUp/awesome-cursorrules-zh/archive/refs/heads/main.zip
+wget https://github.com/holtwood/awesome-cursorrules-zh/archive/refs/heads/main.zip
 
 # Extract
 unzip main.zip
@@ -156,7 +156,7 @@ cd awesome-cursorrules-zh-main
 
 ```bash
 # Using gh command (requires GitHub CLI)
-gh repo clone LessUp/awesome-cursorrules-zh
+gh repo clone holtwood/awesome-cursorrules-zh
 
 cd awesome-cursorrules-zh
 ```

@@ -10,19 +10,19 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [biological-computing](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/emerging-tech/biological-computing/.cursorrules) | 生物计算 .cursorrules 提示文件 |
+| [biological-computing](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/emerging-tech/biological-computing/.cursorrules) | 生物计算 .cursorrules 提示文件 |
 
 ## quantum-communication
 
 | 规则 | 说明 |
 |------|------|
-| [quantum-communication](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/emerging-tech/quantum-communication/.cursorrules) | 量子通信 .cursorrules 提示文件 |
+| [quantum-communication](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/emerging-tech/quantum-communication/.cursorrules) | 量子通信 .cursorrules 提示文件 |
 
 ## quantum-computing
 
 | 规则 | 说明 |
 |------|------|
-| [quantum-computing](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/emerging-tech/quantum-computing/.cursorrules) | 量子计算基础 .cursorrules 提示文件 |
+| [quantum-computing](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/emerging-tech/quantum-computing/.cursorrules) | 量子计算基础 .cursorrules 提示文件 |
 
 ## 使用方法
 

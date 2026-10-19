@@ -10,13 +10,13 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [data-science](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/data-science/.cursorrules) | 你是 Python 数据科学、Pandas、NumPy 和机器学习方面的专家。 |
+| [data-science](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/data-science/.cursorrules) | 你是 Python 数据科学、Pandas、NumPy 和机器学习方面的专家。 |
 
 ## python-data-processing
 
 | 规则 | 说明 |
 |------|------|
-| [python-data-processing](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/data-science/python-data-processing/.cursorrules) | Python 数据处理 .cursorrules 提示文件 |
+| [python-data-processing](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/data-science/python-data-processing/.cursorrules) | Python 数据处理 .cursorrules 提示文件 |
 
 ## 使用方法
 

@@ -10,7 +10,7 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [satellite-internet](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/network/satellite-internet/.cursorrules) | 卫星互联网 .cursorrules 提示文件 |
+| [satellite-internet](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/network/satellite-internet/.cursorrules) | 卫星互联网 .cursorrules 提示文件 |
 
 ## 使用方法
 

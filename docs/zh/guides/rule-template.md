@@ -254,7 +254,7 @@ export const UserCard: FC<UserCardProps> = ({ user }) => {
 
 如果你创建了有用的规则，欢迎贡献：
 
-1. Fork [仓库](https://github.com/LessUp/awesome-cursorrules-zh)
+1. Fork [仓库](https://github.com/holtwood/awesome-cursorrules-zh)
 2. 在对应分类目录创建规则
 3. 提交 Pull Request
 

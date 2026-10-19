@@ -10,7 +10,7 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [guidelines](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/systems/cpp/guidelines/.cursorrules) | C++ 开发 .cursorrules 提示文件 |
+| [guidelines](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/systems/cpp/guidelines/.cursorrules) | C++ 开发 .cursorrules 提示文件 |
 
 ## 使用方法
 

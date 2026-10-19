@@ -2,12 +2,12 @@
 
 # Awesome Cursor Rules 中文版
 
-[![Project Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/LessUp/awesome-cursorrules-zh)
+[![Project Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/holtwood/awesome-cursorrules-zh)
 [![Website](https://img.shields.io/badge/官网-awesome--cursorrules--zh.js.org-blue?style=flat-square&logo=globe)](https://awesome-cursorrules-zh.js.org/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-已部署-success?style=flat-square&logo=github)](https://awesome-cursorrules-zh.js.org/)
-[![Translation Progress](https://img.shields.io/badge/翻译进度-100%25-brightgreen?style=flat-square)](https://github.com/LessUp/awesome-cursorrules-zh)
-[![GitHub Stars](https://img.shields.io/github/stars/LessUp/awesome-cursorrules-zh?style=flat-square&logo=github&label=Stars)](https://github.com/LessUp/awesome-cursorrules-zh/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/LessUp/awesome-cursorrules-zh?style=flat-square&logo=github&label=Forks)](https://github.com/LessUp/awesome-cursorrules-zh/network)
+[![Translation Progress](https://img.shields.io/badge/翻译进度-100%25-brightgreen?style=flat-square)](https://github.com/holtwood/awesome-cursorrules-zh)
+[![GitHub Stars](https://img.shields.io/github/stars/holtwood/awesome-cursorrules-zh?style=flat-square&logo=github&label=Stars)](https://github.com/holtwood/awesome-cursorrules-zh/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/holtwood/awesome-cursorrules-zh?style=flat-square&logo=github&label=Forks)](https://github.com/holtwood/awesome-cursorrules-zh/network)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](./LICENSE)
 
 **[🇨🇳 中文](#中文)** | **[🇺🇸 English](./README.en.md)**
@@ -111,7 +111,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/LessUp/awesome-cursorrules-zh.git
+git clone https://github.com/holtwood/awesome-cursorrules-zh.git
 
 # 浏览可用规则
 cd awesome-cursorrules-zh
@@ -294,8 +294,8 @@ Docker      █████████                          7 个规则
 
 欢迎所有形式的贡献：
 
-- 🐛 **报告问题** — [提交 Issue](https://github.com/LessUp/awesome-cursorrules-zh/issues)
-- 🔧 **改进内容** — [提交 Pull Request](https://github.com/LessUp/awesome-cursorrules-zh/pulls)
+- 🐛 **报告问题** — [提交 Issue](https://github.com/holtwood/awesome-cursorrules-zh/issues)
+- 🔧 **改进内容** — [提交 Pull Request](https://github.com/holtwood/awesome-cursorrules-zh/pulls)
 - 🔄 **同步上游** — 帮助与原项目保持同步
 - 📝 **完善文档** — 优化使用指南
 

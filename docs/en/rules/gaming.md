@@ -10,13 +10,13 @@ Cursor AI programming rules for Gaming.
 
 | Rule | Description |
 |------|------|
-| [cloud-gaming](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/gaming/cloud-gaming/.cursorrules) | 云游戏 .cursorrules 提示文件 |
+| [cloud-gaming](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/gaming/cloud-gaming/.cursorrules) | 云游戏 .cursorrules 提示文件 |
 
 ## dragonruby
 
 | Rule | Description |
 |------|------|
-| [dragonruby](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/gaming/dragonruby/.cursorrules) | 你是 DragonRuby 游戏引擎和 Ruby 编程方面的专家。 |
+| [dragonruby](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/gaming/dragonruby/.cursorrules) | 你是 DragonRuby 游戏引擎和 Ruby 编程方面的专家。 |
 
 ## Usage
 

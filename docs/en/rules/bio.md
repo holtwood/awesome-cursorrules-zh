@@ -10,19 +10,19 @@ Cursor AI programming rules for Bio.
 
 | Rule | Description |
 |------|------|
-| [bioelectronics](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/bio/bioelectronics/.cursorrules) | 生物电子 .cursorrules 提示文件 |
+| [bioelectronics](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/bio/bioelectronics/.cursorrules) | 生物电子 .cursorrules 提示文件 |
 
 ## biological-cpu
 
 | Rule | Description |
 |------|------|
-| [biological-cpu](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/bio/biological-cpu/.cursorrules) | 生物CPU .cursorrules 提示文件 |
+| [biological-cpu](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/bio/biological-cpu/.cursorrules) | 生物CPU .cursorrules 提示文件 |
 
 ## biosensor-fusion
 
 | Rule | Description |
 |------|------|
-| [biosensor-fusion](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/bio/biosensor-fusion/.cursorrules) | 生物传感器融合 .cursorrules 提示文件 |
+| [biosensor-fusion](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/bio/biosensor-fusion/.cursorrules) | 生物传感器融合 .cursorrules 提示文件 |
 
 ## Usage
 

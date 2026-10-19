@@ -10,7 +10,7 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [dna-storage](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/storage/dna-storage/.cursorrules) | DNA存储 .cursorrules 提示文件 |
+| [dna-storage](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/storage/dna-storage/.cursorrules) | DNA存储 .cursorrules 提示文件 |
 
 ## 使用方法
 

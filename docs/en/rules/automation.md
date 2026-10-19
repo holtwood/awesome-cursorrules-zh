@@ -10,7 +10,7 @@ Cursor AI programming rules for Automation.
 
 | Rule | Description |
 |------|------|
-| [rpa](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/automation/rpa/.cursorrules) | RPA自动化 .cursorrules 提示文件 |
+| [rpa](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/automation/rpa/.cursorrules) | RPA自动化 .cursorrules 提示文件 |
 
 ## Usage
 

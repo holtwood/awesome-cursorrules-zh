@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- 账号改名同步：全部仓库链接与徽章由 `LessUp/awesome-cursorrules-zh` 更新为 `holtwood/awesome-cursorrules-zh`（85 个文件，332 处）。
+- 移除误提交的本地 AI 工具产物 `.claude/plans/`（含本地路径）。
+
 ## [2.2.0] - 2026-04-28
 
 ### 🎉 Highlights
@@ -289,12 +293,12 @@ No action required - old paths are automatically redirected.
 
 ---
 
-[Unreleased]: https://github.com/LessUp/awesome-cursorrules-zh/compare/v2.1.0...HEAD
-[2.1.0]: https://github.com/LessUp/awesome-cursorrules-zh/compare/v2.0.0...v2.1.0
-[2.0.0]: https://github.com/LessUp/awesome-cursorrules-zh/compare/v1.5.0...v2.0.0
-[1.5.0]: https://github.com/LessUp/awesome-cursorrules-zh/compare/v1.4.0...v1.5.0
-[1.4.0]: https://github.com/LessUp/awesome-cursorrules-zh/compare/v1.3.0...v1.4.0
-[1.3.0]: https://github.com/LessUp/awesome-cursorrules-zh/compare/v1.2.0...v1.3.0
-[1.2.0]: https://github.com/LessUp/awesome-cursorrules-zh/compare/v1.1.0...v1.2.0
-[1.1.0]: https://github.com/LessUp/awesome-cursorrules-zh/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/LessUp/awesome-cursorrules-zh/releases/tag/v1.0.0
+[Unreleased]: https://github.com/holtwood/awesome-cursorrules-zh/compare/v2.1.0...HEAD
+[2.1.0]: https://github.com/holtwood/awesome-cursorrules-zh/compare/v2.0.0...v2.1.0
+[2.0.0]: https://github.com/holtwood/awesome-cursorrules-zh/compare/v1.5.0...v2.0.0
+[1.5.0]: https://github.com/holtwood/awesome-cursorrules-zh/compare/v1.4.0...v1.5.0
+[1.4.0]: https://github.com/holtwood/awesome-cursorrules-zh/compare/v1.3.0...v1.4.0
+[1.3.0]: https://github.com/holtwood/awesome-cursorrules-zh/compare/v1.2.0...v1.3.0
+[1.2.0]: https://github.com/holtwood/awesome-cursorrules-zh/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/holtwood/awesome-cursorrules-zh/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/holtwood/awesome-cursorrules-zh/releases/tag/v1.0.0

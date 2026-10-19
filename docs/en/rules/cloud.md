@@ -10,7 +10,7 @@ Cursor AI programming rules for Cloud.
 
 | Rule | Description |
 |------|------|
-| [middleware](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/cloud/middleware/.cursorrules) | 云原生中间件 .cursorrules 提示文件 |
+| [middleware](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/cloud/middleware/.cursorrules) | 云原生中间件 .cursorrules 提示文件 |
 
 ## Usage
 

@@ -10,7 +10,7 @@ Cursor AI programming rules for Industrial.
 
 | Rule | Description |
 |------|------|
-| [automation](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/industrial/automation/.cursorrules) | 工业自动化 .cursorrules 提示文件 |
+| [automation](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/industrial/automation/.cursorrules) | 工业自动化 .cursorrules 提示文件 |
 
 ## Usage
 

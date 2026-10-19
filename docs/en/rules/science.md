@@ -10,7 +10,7 @@ Cursor AI programming rules for Science.
 
 | Rule | Description |
 |------|------|
-| [bioinformatics](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/science/bioinformatics/.cursorrules) | 生物信息学 .cursorrules 提示文件 |
+| [bioinformatics](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/science/bioinformatics/.cursorrules) | 生物信息学 .cursorrules 提示文件 |
 
 ## Usage
 

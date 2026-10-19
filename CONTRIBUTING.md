@@ -31,7 +31,7 @@
 
 发现翻译错误或内容过时？请提交 Issue：
 
-1. 搜索 [现有 Issues](https://github.com/LessUp/awesome-cursorrules-zh/issues) 确保问题未被报告
+1. 搜索 [现有 Issues](https://github.com/holtwood/awesome-cursorrules-zh/issues) 确保问题未被报告
 2. 使用问题模板创建新 Issue
 3. 提供清晰的描述和复现步骤
 
@@ -39,7 +39,7 @@
 
 ```bash
 # 1. Fork 仓库
-gh repo fork LessUp/awesome-cursorrules-zh
+gh repo fork holtwood/awesome-cursorrules-zh
 
 # 2. 克隆你的 Fork
 git clone https://github.com/你的用户名/awesome-cursorrules-zh.git
@@ -66,7 +66,7 @@ gh pr create
 
 ```bash
 # 添加上游仓库
-git remote add upstream https://github.com/LessUp/awesome-cursorrules-zh.git
+git remote add upstream https://github.com/holtwood/awesome-cursorrules-zh.git
 
 # 获取最新更新
 git fetch upstream
@@ -247,8 +247,8 @@ git commit -m "docs: 更新贡献指南中的提交规范"
 
 ## 获取帮助
 
-- **问题讨论**：[GitHub Discussions](https://github.com/LessUp/awesome-cursorrules-zh/discussions)
-- **问题报告**：[GitHub Issues](https://github.com/LessUp/awesome-cursorrules-zh/issues)
+- **问题讨论**：[GitHub Discussions](https://github.com/holtwood/awesome-cursorrules-zh/discussions)
+- **问题报告**：[GitHub Issues](https://github.com/holtwood/awesome-cursorrules-zh/issues)
 - **邮件联系**：通过 GitHub 个人主页
 
 ---

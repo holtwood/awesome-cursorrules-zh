@@ -10,19 +10,19 @@ Cursor AI programming rules for Data.
 
 | Rule | Description |
 |------|------|
-| [data-warehouse](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/data/data-warehouse/.cursorrules) | 数据仓库与湖仓一体 .cursorrules 提示文件 |
+| [data-warehouse](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/data/data-warehouse/.cursorrules) | 数据仓库与湖仓一体 .cursorrules 提示文件 |
 
 ## kafka-pulsar
 
 | Rule | Description |
 |------|------|
-| [kafka-pulsar](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/data/kafka-pulsar/.cursorrules) | 实时流计算平台 .cursorrules 提示文件 |
+| [kafka-pulsar](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/data/kafka-pulsar/.cursorrules) | 实时流计算平台 .cursorrules 提示文件 |
 
 ## spark-flink
 
 | Rule | Description |
 |------|------|
-| [spark-flink](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/data/spark-flink/.cursorrules) | 大数据处理框架 .cursorrules 提示文件 |
+| [spark-flink](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/data/spark-flink/.cursorrules) | 大数据处理框架 .cursorrules 提示文件 |
 
 ## Usage
 

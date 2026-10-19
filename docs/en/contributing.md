@@ -129,7 +129,7 @@ Please keep collaboration respectful, constructive, and inclusive.
 
 ## Need help?
 
-- [Open an issue](https://github.com/LessUp/awesome-cursorrules-zh/issues)
-- [Start a discussion](https://github.com/LessUp/awesome-cursorrules-zh/discussions)
+- [Open an issue](https://github.com/holtwood/awesome-cursorrules-zh/issues)
+- [Start a discussion](https://github.com/holtwood/awesome-cursorrules-zh/discussions)
 
 Thanks again for helping improve this rule ecosystem.

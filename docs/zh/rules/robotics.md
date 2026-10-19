@@ -10,7 +10,7 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [ros](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/robotics/ros/.cursorrules) | 机器人操作系统 .cursorrules 提示文件 |
+| [ros](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/robotics/ros/.cursorrules) | 机器人操作系统 .cursorrules 提示文件 |
 
 ## 使用方法
 

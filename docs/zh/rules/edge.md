@@ -10,19 +10,19 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [ai-inference](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/edge/ai-inference/.cursorrules) | 边缘AI推理 .cursorrules 提示文件 |
+| [ai-inference](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/edge/ai-inference/.cursorrules) | 边缘AI推理 .cursorrules 提示文件 |
 
 ## computing
 
 | 规则 | 说明 |
 |------|------|
-| [computing](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/edge/computing/.cursorrules) | 边缘计算 .cursorrules 提示文件 |
+| [computing](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/edge/computing/.cursorrules) | 边缘计算 .cursorrules 提示文件 |
 
 ## model-compression
 
 | 规则 | 说明 |
 |------|------|
-| [model-compression](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/edge/model-compression/.cursorrules) | 模型压缩 .cursorrules 提示文件 |
+| [model-compression](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/edge/model-compression/.cursorrules) | 模型压缩 .cursorrules 提示文件 |
 
 ## 使用方法
 

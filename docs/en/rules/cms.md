@@ -10,13 +10,13 @@ Cursor AI programming rules for CMS.
 
 | Rule | Description |
 |------|------|
-| [drupal-11](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/cms/drupal/drupal-11/.cursorrules) | Drupal 11 开发 .cursorrules 提示文件 |
+| [drupal-11](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/cms/drupal/drupal-11/.cursorrules) | Drupal 11 开发 .cursorrules 提示文件 |
 
 ## drupal-11
 
 | Rule | Description |
 |------|------|
-| [drupal-11](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/cms/drupal-11/.cursorrules) | AI Assistant Rules |
+| [drupal-11](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/cms/drupal-11/.cursorrules) | AI Assistant Rules |
 
 ## Usage
 

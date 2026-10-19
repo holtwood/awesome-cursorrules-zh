@@ -10,7 +10,7 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [distributed](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/compute/distributed/.cursorrules) | 分布式计算框架 .cursorrules 提示文件 |
+| [distributed](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/compute/distributed/.cursorrules) | 分布式计算框架 .cursorrules 提示文件 |
 
 ## 使用方法
 

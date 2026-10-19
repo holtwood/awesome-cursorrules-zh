@@ -10,7 +10,7 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [bioinformatics](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/science/bioinformatics/.cursorrules) | 生物信息学 .cursorrules 提示文件 |
+| [bioinformatics](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/science/bioinformatics/.cursorrules) | 生物信息学 .cursorrules 提示文件 |
 
 ## 使用方法
 

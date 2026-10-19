@@ -114,11 +114,11 @@ This repository is a localized and expanded edition with:
 
 ### Where can I track updates?
 
-- [GitHub repository](https://github.com/LessUp/awesome-cursorrules-zh)
+- [GitHub repository](https://github.com/holtwood/awesome-cursorrules-zh)
 - [Changelog](/en/changelog)
-- [GitHub releases](https://github.com/LessUp/awesome-cursorrules-zh/releases)
+- [GitHub releases](https://github.com/holtwood/awesome-cursorrules-zh/releases)
 
 ### Where can I ask for help?
 
-- [Issues](https://github.com/LessUp/awesome-cursorrules-zh/issues)
-- [Discussions](https://github.com/LessUp/awesome-cursorrules-zh/discussions)
+- [Issues](https://github.com/holtwood/awesome-cursorrules-zh/issues)
+- [Discussions](https://github.com/holtwood/awesome-cursorrules-zh/discussions)

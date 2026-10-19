@@ -10,13 +10,13 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [cloud-native](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/database/cloud-native/.cursorrules) | 云原生数据库 .cursorrules 提示文件 |
+| [cloud-native](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/database/cloud-native/.cursorrules) | 云原生数据库 .cursorrules 提示文件 |
 
 ## spatiotemporal
 
 | 规则 | 说明 |
 |------|------|
-| [spatiotemporal](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/database/spatiotemporal/.cursorrules) | 时空数据库 .cursorrules 提示文件 |
+| [spatiotemporal](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/database/spatiotemporal/.cursorrules) | 时空数据库 .cursorrules 提示文件 |
 
 ## 使用方法
 

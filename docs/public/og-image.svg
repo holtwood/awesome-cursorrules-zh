@@ -42,6 +42,6 @@
 
   <line x1="140" y1="452" x2="1060" y2="452" stroke="var(--card-panel-border)" />
 
-  <text x="140" y="500" fill="var(--card-ink)" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22">LessUp/awesome-cursorrules-zh</text>
+  <text x="140" y="500" fill="var(--card-ink)" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22">holtwood/awesome-cursorrules-zh</text>
   <text x="140" y="534" fill="var(--card-subtle)" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18">Rules, architecture, and governance aligned in one bilingual publication surface.</text>
 </svg>

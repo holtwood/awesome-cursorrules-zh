@@ -10,13 +10,13 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [error-correction](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/quantum/error-correction/.cursorrules) | 量子纠错 .cursorrules 提示文件 |
+| [error-correction](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/quantum/error-correction/.cursorrules) | 量子纠错 .cursorrules 提示文件 |
 
 ## superconducting-computing
 
 | 规则 | 说明 |
 |------|------|
-| [superconducting-computing](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/quantum/superconducting-computing/.cursorrules) | 超导计算 .cursorrules 提示文件 |
+| [superconducting-computing](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/quantum/superconducting-computing/.cursorrules) | 超导计算 .cursorrules 提示文件 |
 
 ## 使用方法
 

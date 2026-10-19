@@ -10,13 +10,13 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [convex](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/tools/convex/.cursorrules) | 你是 Convex 后端平台、TypeScript 和实时应用开发方面的专家。 |
+| [convex](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/tools/convex/.cursorrules) | 你是 Convex 后端平台、TypeScript 和实时应用开发方面的专家。 |
 
 ## github-quality
 
 | 规则 | 说明 |
 |------|------|
-| [github-quality](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/tools/github-quality/.cursorrules) | 你是代码质量、Git 工作流和最佳实践方面的专家。 |
+| [github-quality](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/tools/github-quality/.cursorrules) | 你是代码质量、Git 工作流和最佳实践方面的专家。 |
 
 ## 使用方法
 

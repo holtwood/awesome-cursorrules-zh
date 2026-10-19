@@ -132,7 +132,7 @@ sudo apt-get install -f  # 修复依赖
 
 ```bash
 # 克隆仓库
-git clone https://github.com/LessUp/awesome-cursorrules-zh.git
+git clone https://github.com/holtwood/awesome-cursorrules-zh.git
 
 # 进入目录
 cd awesome-cursorrules-zh
@@ -145,7 +145,7 @@ ls rules/
 
 ```bash
 # 下载最新版本
-wget https://github.com/LessUp/awesome-cursorrules-zh/archive/refs/heads/main.zip
+wget https://github.com/holtwood/awesome-cursorrules-zh/archive/refs/heads/main.zip
 
 # 解压
 unzip main.zip
@@ -156,7 +156,7 @@ cd awesome-cursorrules-zh-main
 
 ```bash
 # 使用 gh 命令（需先安装 GitHub CLI）
-gh repo clone LessUp/awesome-cursorrules-zh
+gh repo clone holtwood/awesome-cursorrules-zh
 
 cd awesome-cursorrules-zh
 ```

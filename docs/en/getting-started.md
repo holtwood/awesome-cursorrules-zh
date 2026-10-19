@@ -29,7 +29,7 @@ Make sure you have the following tools installed:
 
 ```bash
 # Clone the repository locally
-git clone https://github.com/LessUp/awesome-cursorrules-zh.git
+git clone https://github.com/holtwood/awesome-cursorrules-zh.git
 
 # Enter the directory
 cd awesome-cursorrules-zh

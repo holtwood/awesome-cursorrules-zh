@@ -10,25 +10,25 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [carbon-chip](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/hardware/carbon-chip/.cursorrules) | 碳基芯片 .cursorrules 提示文件 |
+| [carbon-chip](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/hardware/carbon-chip/.cursorrules) | 碳基芯片 .cursorrules 提示文件 |
 
 ## neuromorphic-chips
 
 | 规则 | 说明 |
 |------|------|
-| [neuromorphic-chips](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/hardware/neuromorphic-chips/.cursorrules) | 神经形态芯片 .cursorrules 提示文件 |
+| [neuromorphic-chips](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/hardware/neuromorphic-chips/.cursorrules) | 神经形态芯片 .cursorrules 提示文件 |
 
 ## photon-computing
 
 | 规则 | 说明 |
 |------|------|
-| [photon-computing](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/hardware/photon-computing/.cursorrules) | 光子计算 .cursorrules 提示文件 |
+| [photon-computing](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/hardware/photon-computing/.cursorrules) | 光子计算 .cursorrules 提示文件 |
 
 ## superconducting-memory
 
 | 规则 | 说明 |
 |------|------|
-| [superconducting-memory](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/hardware/superconducting-memory/.cursorrules) | 超导内存 .cursorrules 提示文件 |
+| [superconducting-memory](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/hardware/superconducting-memory/.cursorrules) | 超导内存 .cursorrules 提示文件 |
 
 ## 使用方法
 

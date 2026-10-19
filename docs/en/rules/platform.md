@@ -10,19 +10,19 @@ Cursor AI programming rules for Platform.
 
 | Rule | Description |
 |------|------|
-| [low-code](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/platform/low-code/.cursorrules) | 低代码平台 .cursorrules 提示文件 |
+| [low-code](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/platform/low-code/.cursorrules) | 低代码平台 .cursorrules 提示文件 |
 
 ## metaverse
 
 | Rule | Description |
 |------|------|
-| [metaverse](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/platform/metaverse/.cursorrules) | 元宇宙平台 .cursorrules 提示文件 |
+| [metaverse](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/platform/metaverse/.cursorrules) | 元宇宙平台 .cursorrules 提示文件 |
 
 ## no-code
 
 | Rule | Description |
 |------|------|
-| [no-code](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/platform/no-code/.cursorrules) | 无代码平台 .cursorrules 提示文件 |
+| [no-code](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/platform/no-code/.cursorrules) | 无代码平台 .cursorrules 提示文件 |
 
 ## Usage
 

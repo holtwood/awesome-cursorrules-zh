@@ -40,7 +40,7 @@ export default withMermaid(defineConfig({
           }
         },
         editLink: {
-          pattern: 'https://github.com/LessUp/awesome-cursorrules-zh/edit/master/docs/:path',
+          pattern: 'https://github.com/holtwood/awesome-cursorrules-zh/edit/master/docs/:path',
           text: '在 GitHub 上编辑此页'
         },
         docFooter: { prev: '上一页', next: '下一页' },
@@ -69,7 +69,7 @@ export default withMermaid(defineConfig({
         sidebar: enSidebar,
         search: { provider: 'local' },
         editLink: {
-          pattern: 'https://github.com/LessUp/awesome-cursorrules-zh/edit/master/docs/:path',
+          pattern: 'https://github.com/holtwood/awesome-cursorrules-zh/edit/master/docs/:path',
           text: 'Edit this page on GitHub'
         },
         docFooter: { prev: 'Previous', next: 'Next' },
@@ -93,7 +93,7 @@ export default withMermaid(defineConfig({
     outline: [2, 3],
     search: { provider: 'local' },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/LessUp/awesome-cursorrules-zh' }
+      { icon: 'github', link: 'https://github.com/holtwood/awesome-cursorrules-zh' }
     ],
     logo: '/logo.svg',
     siteTitle: false

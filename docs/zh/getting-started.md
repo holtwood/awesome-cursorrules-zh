@@ -29,7 +29,7 @@
 
 ```bash
 # 克隆仓库到本地
-git clone https://github.com/LessUp/awesome-cursorrules-zh.git
+git clone https://github.com/holtwood/awesome-cursorrules-zh.git
 
 # 进入目录
 cd awesome-cursorrules-zh

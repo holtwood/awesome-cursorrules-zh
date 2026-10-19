@@ -10,19 +10,19 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [data-warehouse](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/data/data-warehouse/.cursorrules) | 数据仓库与湖仓一体 .cursorrules 提示文件 |
+| [data-warehouse](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/data/data-warehouse/.cursorrules) | 数据仓库与湖仓一体 .cursorrules 提示文件 |
 
 ## kafka-pulsar
 
 | 规则 | 说明 |
 |------|------|
-| [kafka-pulsar](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/data/kafka-pulsar/.cursorrules) | 实时流计算平台 .cursorrules 提示文件 |
+| [kafka-pulsar](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/data/kafka-pulsar/.cursorrules) | 实时流计算平台 .cursorrules 提示文件 |
 
 ## spark-flink
 
 | 规则 | 说明 |
 |------|------|
-| [spark-flink](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/data/spark-flink/.cursorrules) | 大数据处理框架 .cursorrules 提示文件 |
+| [spark-flink](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/data/spark-flink/.cursorrules) | 大数据处理框架 .cursorrules 提示文件 |
 
 ## 使用方法
 

@@ -412,8 +412,8 @@ Remove-Item -Recurse -Force $env:APPDATA\Cursor\cache
 
 | Channel | Purpose | Link |
 |---------|---------|------|
-| 🐛 Issues | Report Bugs | [GitHub Issues](https://github.com/LessUp/awesome-cursorrules-zh/issues) |
-| 💬 Discussions | Q&A, Experience Sharing | [GitHub Discussions](https://github.com/LessUp/awesome-cursorrules-zh/discussions) |
+| 🐛 Issues | Report Bugs | [GitHub Issues](https://github.com/holtwood/awesome-cursorrules-zh/issues) |
+| 💬 Discussions | Q&A, Experience Sharing | [GitHub Discussions](https://github.com/holtwood/awesome-cursorrules-zh/discussions) |
 
 ### Issue Report Template
 

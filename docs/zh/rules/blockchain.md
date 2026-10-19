@@ -10,25 +10,25 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [advanced-protocols](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/blockchain/advanced-protocols/.cursorrules) | 区块链扩展协议 .cursorrules 提示文件 |
+| [advanced-protocols](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/blockchain/advanced-protocols/.cursorrules) | 区块链扩展协议 .cursorrules 提示文件 |
 
 ## smart-contract-security
 
 | 规则 | 说明 |
 |------|------|
-| [smart-contract-security](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/blockchain/smart-contract-security/.cursorrules) | 智能合约安全 .cursorrules 提示文件 |
+| [smart-contract-security](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/blockchain/smart-contract-security/.cursorrules) | 智能合约安全 .cursorrules 提示文件 |
 
 ## solidity
 
 | 规则 | 说明 |
 |------|------|
-| [foundry](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/blockchain/solidity/foundry/.cursorrules) | Solidity Foundry 开发 .cursorrules 提示文件 |
+| [foundry](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/blockchain/solidity/foundry/.cursorrules) | Solidity Foundry 开发 .cursorrules 提示文件 |
 
 ## web3
 
 | 规则 | 说明 |
 |------|------|
-| [web3](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/blockchain/web3/.cursorrules) | Web3.0 开发 .cursorrules 提示文件 |
+| [web3](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/blockchain/web3/.cursorrules) | Web3.0 开发 .cursorrules 提示文件 |
 
 ## 使用方法
 

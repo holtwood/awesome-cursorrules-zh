@@ -10,7 +10,7 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [digital-twin](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/simulation/digital-twin/.cursorrules) | 数字孪生 .cursorrules 提示文件 |
+| [digital-twin](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/simulation/digital-twin/.cursorrules) | 数字孪生 .cursorrules 提示文件 |
 
 ## 使用方法
 

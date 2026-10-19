@@ -2,12 +2,12 @@
 
 # Awesome Cursor Rules
 
-[![Project Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/LessUp/awesome-cursorrules-zh)
+[![Project Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/holtwood/awesome-cursorrules-zh)
 [![Website](https://img.shields.io/badge/website-awesome--cursorrules--zh.js.org-blue?style=flat-square&logo=globe)](https://awesome-cursorrules-zh.js.org/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-success?style=flat-square&logo=github)](https://awesome-cursorrules-zh.js.org/)
-[![Translation Progress](https://img.shields.io/badge/translation-100%25-brightgreen?style=flat-square)](https://github.com/LessUp/awesome-cursorrules-zh)
-[![GitHub Stars](https://img.shields.io/github/stars/LessUp/awesome-cursorrules-zh?style=flat-square&logo=github&label=Stars)](https://github.com/LessUp/awesome-cursorrules-zh/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/LessUp/awesome-cursorrules-zh?style=flat-square&logo=github&label=Forks)](https://github.com/LessUp/awesome-cursorrules-zh/network)
+[![Translation Progress](https://img.shields.io/badge/translation-100%25-brightgreen?style=flat-square)](https://github.com/holtwood/awesome-cursorrules-zh)
+[![GitHub Stars](https://img.shields.io/github/stars/holtwood/awesome-cursorrules-zh?style=flat-square&logo=github&label=Stars)](https://github.com/holtwood/awesome-cursorrules-zh/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/holtwood/awesome-cursorrules-zh?style=flat-square&logo=github&label=Forks)](https://github.com/holtwood/awesome-cursorrules-zh/network)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](./LICENSE)
 
 **[🇨🇳 中文](./README.md)** | **[🇺🇸 English](#english)**
@@ -111,7 +111,7 @@ A curated collection of [Cursor](https://cursor.sh/) AI coding rules for modern 
 
 ```bash
 # Clone the repository
-git clone https://github.com/LessUp/awesome-cursorrules-zh.git
+git clone https://github.com/holtwood/awesome-cursorrules-zh.git
 
 # Browse available rules
 cd awesome-cursorrules-zh
@@ -294,8 +294,8 @@ Docker      █████████                          7 rules
 
 Contributions are welcome in all forms:
 
-- 🐛 **Report Issues** — [Submit an Issue](https://github.com/LessUp/awesome-cursorrules-zh/issues)
-- 🔧 **Improve Content** — [Submit a Pull Request](https://github.com/LessUp/awesome-cursorrules-zh/pulls)
+- 🐛 **Report Issues** — [Submit an Issue](https://github.com/holtwood/awesome-cursorrules-zh/issues)
+- 🔧 **Improve Content** — [Submit a Pull Request](https://github.com/holtwood/awesome-cursorrules-zh/pulls)
 - 🔄 **Sync Upstream** — Help keep this project in sync with the original
 - 📝 **Enhance Documentation** — Improve guides and documentation
 

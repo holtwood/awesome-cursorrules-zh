@@ -10,37 +10,37 @@ AI与数据相关的 Cursor AI 编程规则集合。
 
 | 规则 | 说明 |
 |------|------|
-| [computer-vision](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/ai/computer-vision/.cursorrules) | 计算机视觉 .cursorrules 提示文件 |
+| [computer-vision](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/ai/computer-vision/.cursorrules) | 计算机视觉 .cursorrules 提示文件 |
 
 ## edge-ai
 
 | 规则 | 说明 |
 |------|------|
-| [edge-ai](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/ai/edge-ai/.cursorrules) | 边缘AI .cursorrules 提示文件 |
+| [edge-ai](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/ai/edge-ai/.cursorrules) | 边缘AI .cursorrules 提示文件 |
 
 ## federated-learning
 
 | 规则 | 说明 |
 |------|------|
-| [federated-learning](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/ai/federated-learning/.cursorrules) | 联邦学习 .cursorrules 提示文件 |
+| [federated-learning](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/ai/federated-learning/.cursorrules) | 联邦学习 .cursorrules 提示文件 |
 
 ## knowledge-graph
 
 | 规则 | 说明 |
 |------|------|
-| [knowledge-graph](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/ai/knowledge-graph/.cursorrules) | 知识图谱 .cursorrules 提示文件 |
+| [knowledge-graph](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/ai/knowledge-graph/.cursorrules) | 知识图谱 .cursorrules 提示文件 |
 
 ## mlops
 
 | 规则 | 说明 |
 |------|------|
-| [mlops](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/ai/mlops/.cursorrules) | AI 工程化平台 .cursorrules 提示文件 |
+| [mlops](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/ai/mlops/.cursorrules) | AI 工程化平台 .cursorrules 提示文件 |
 
 ## photonic-neural-network
 
 | 规则 | 说明 |
 |------|------|
-| [photonic-neural-network](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/ai/photonic-neural-network/.cursorrules) | 光子神经网络 .cursorrules 提示文件 |
+| [photonic-neural-network](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/ai/photonic-neural-network/.cursorrules) | 光子神经网络 .cursorrules 提示文件 |
 
 ## 使用方法
 

@@ -10,19 +10,19 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [low-code](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/platform/low-code/.cursorrules) | 低代码平台 .cursorrules 提示文件 |
+| [low-code](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/platform/low-code/.cursorrules) | 低代码平台 .cursorrules 提示文件 |
 
 ## metaverse
 
 | 规则 | 说明 |
 |------|------|
-| [metaverse](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/platform/metaverse/.cursorrules) | 元宇宙平台 .cursorrules 提示文件 |
+| [metaverse](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/platform/metaverse/.cursorrules) | 元宇宙平台 .cursorrules 提示文件 |
 
 ## no-code
 
 | 规则 | 说明 |
 |------|------|
-| [no-code](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/platform/no-code/.cursorrules) | 无代码平台 .cursorrules 提示文件 |
+| [no-code](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/platform/no-code/.cursorrules) | 无代码平台 .cursorrules 提示文件 |
 
 ## 使用方法
 

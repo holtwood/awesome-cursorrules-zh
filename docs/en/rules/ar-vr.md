@@ -10,7 +10,7 @@ Cursor AI programming rules for AR/VR.
 
 | Rule | Description |
 |------|------|
-| [augmented-reality](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/ar-vr/augmented-reality/.cursorrules) | 增强现实开发 .cursorrules 提示文件 |
+| [augmented-reality](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/ar-vr/augmented-reality/.cursorrules) | 增强现实开发 .cursorrules 提示文件 |
 
 ## Usage
 

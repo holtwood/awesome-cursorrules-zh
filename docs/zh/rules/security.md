@@ -10,31 +10,31 @@ editLink: false
 
 | 规则 | 说明 |
 |------|------|
-| [homomorphic-encryption](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/security/homomorphic-encryption/.cursorrules) | 同态加密 .cursorrules 提示文件 |
+| [homomorphic-encryption](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/security/homomorphic-encryption/.cursorrules) | 同态加密 .cursorrules 提示文件 |
 
 ## privacy-computing
 
 | 规则 | 说明 |
 |------|------|
-| [privacy-computing](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/security/privacy-computing/.cursorrules) | 隐私计算 .cursorrules 提示文件 |
+| [privacy-computing](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/security/privacy-computing/.cursorrules) | 隐私计算 .cursorrules 提示文件 |
 
 ## secure-multiparty
 
 | 规则 | 说明 |
 |------|------|
-| [secure-multiparty](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/security/secure-multiparty/.cursorrules) | 安全多方计算 .cursorrules 提示文件 |
+| [secure-multiparty](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/security/secure-multiparty/.cursorrules) | 安全多方计算 .cursorrules 提示文件 |
 
 ## service-mesh
 
 | 规则 | 说明 |
 |------|------|
-| [service-mesh](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/security/service-mesh/.cursorrules) | 服务网格安全 .cursorrules 提示文件 |
+| [service-mesh](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/security/service-mesh/.cursorrules) | 服务网格安全 .cursorrules 提示文件 |
 
 ## zero-trust
 
 | 规则 | 说明 |
 |------|------|
-| [zero-trust](https://github.com/LessUp/awesome-cursorrules-zh/blob/master/rules/security/zero-trust/.cursorrules) | 云原生安全 .cursorrules 提示文件 |
+| [zero-trust](https://github.com/holtwood/awesome-cursorrules-zh/blob/master/rules/security/zero-trust/.cursorrules) | 云原生安全 .cursorrules 提示文件 |
 
 ## 使用方法
 
